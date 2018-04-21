@@ -122,4 +122,4 @@ function OrderAgain(){
 
 //Call the original function (all other functions are called within this function) 
 //====================================================================== 
-showProducts(); 
+ShowProducts(); 
